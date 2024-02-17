@@ -1,0 +1,198 @@
+VTV
+VTV1 HD,udp://@225.1.2.249:30120
+VTV2 HD,udp://@225.1.2.13:30120
+VTV3 HD,udp://@225.1.2.247:30120
+VTV4 HD,udp://@225.1.2.20:30120
+VTV5 HD,udp://@225.1.1.131:30120
+VTV Cần Thơ HD,udp://@225.1.2.245:30120
+VTV7 HD,udp://@225.1.2.96:30120
+VTV8 HD,udp://@225.1.2.166:30120
+VTV9 HD,udp://@225.1.1.128:30120
+VTV5 Tây Nam Bộ HD,udp://@225.1.2.236:30120
+VTV1 HD (HD 4Mbps),udp://@225.1.4.1:30120
+VTV2 HD (HD 4Mbps),udp://@225.1.4.2:30120
+VTV3 HD (HD 4Mbps),udp://@225.1.4.3:30120
+VTV4 HD (HD 4Mbps),udp://@225.1.4.4:30120
+VTV5 HD (HD 4Mbps),udp://@225.1.4.5:30120
+VTV Cần Thơ HD (HD 4Mbps),udp://@225.1.4.108:30120
+VTV7 HD (HD 4Mbps),udp://@225.1.4.10:30120
+VTV8 HD (HD 4Mbps),udp://@225.1.4.7:30120
+VTV9 HD (HD 4Mbps),udp://@225.1.4.8:30120
+
+VTC
+VTC1 HD,udp://@225.1.2.254:30120
+VTC3 HD,udp://@225.1.2.251:30120
+VTC4 HD,udp://@225.1.2.200:30120
+VTC13 HD,udp://@225.1.2.250:30120
+VTC14 HD,udp://@225.1.2.88:30120
+VTC16 HD,udp://@225.1.2.190:30120
+VOV TV,udp://@225.1.2.171:30120
+VTC2,udp://@225.1.2.202:30120
+VTC5,udp://@225.1.2.199:30120
+VTC6,udp://@225.1.2.198:30120
+VTC7,udp://@225.1.2.197:30120
+VTC8,udp://@225.1.2.196:30120
+VTC10,udp://@225.1.2.194:30120
+VTC11,udp://@225.1.2.193:30120
+VTC12,udp://@225.1.2.51:30120
+VTC3 HD (HD 4Mbps),udp://@225.1.4.42:30120
+
+HTV/HTVC
+HTV2 HD,udp://@225.1.1.193:30120
+HTV7 HD,udp://@225.1.1.192:30120
+HTV9 HD,udp://@225.1.1.190:30120
+HTV1,udp://@225.1.1.180:30120
+HTV3,udp://@225.1.1.178:30120
+HTV4,udp://@225.1.1.177:30120
+HTV THỂ THAO,udp://@225.1.1.165:30120
+HTVC Ca Nhạc,udp://@225.1.1.185:30120
+HTVC Du Lịch và Cuộc Sống,udp://@225.1.1.166:30120
+HTVC Gia Đình,udp://@225.1.1.170:30120
+HTVC Phim,udp://@225.1.1.184:30120
+HTVC Phụ Nữ,udp://@225.1.1.171:30120
+Thuần Việt HD,udp://@225.1.1.186:30120
+HTVC+,udp://@225.1.1.181:30120
+
+Kênh TH Thiết yếu
+ANTV - An Ninh TV HD,udp://@225.1.2.169:30120
+Nhân Dân TV HD,udp://@225.1.1.91:30120
+Quốc Hội TV HD,udp://@225.1.2.148:30120
+QPTV - Quốc Phòng VN HD,udp://@225.1.2.217:30120
+TTXVN - Thông Tấn Xã VN HD,udp://@225.1.1.43:30120
+
+Other
+SCTV6,udp://@225.1.1.188:30120
+
+Địa phương (HD)
+THLC _ TH Lào Cai,udp://@225.1.1.119:30120
+ĐTV HD _ TH Điện Biên,udp://@225.1.1.74:30120
+TTV HD _ TH Tuyên Quang,udp://@225.1.2.188:30120
+TN1 HD _ TH Thái Nguyên,udp://@225.1.2.179:30120
+HBTV HD _ TH Hòa Bình (HD 4Mbps),udp://@225.1.2.168:30120
+PTV HD _ TH Phú Thọ,udp://@225.1.2.165:30120
+BGTV HD _ TH Bắc Giang,udp://@225.1.1.164:30120
+LSTV HD _ TH Lạng Sơn,udp://@225.1.1.160:30120
+CRTV HD _ TH Cao Bằng,udp://@225.1.1.102:30120
+TBK HD _ TH Bắc Kạn (HD 4Mbps),udp://@225.1.1.126:30120
+QTV1 HD _ TH Quảng Ninh,udp://@225.1.2.181:30120
+BTV _ TH Bắc Ninh,udp://@225.1.1.40:30120
+Hà Nội 1 HD,udp://@225.1.2.186:30120
+Hà Nội 2 HD,udp://@225.1.1.125:30120
+THP HD _ TH TP. Hải Phòng,udp://@225.1.1.44:30120
+NTV HD _ TH Ninh Bình,udp://@225.1.2.185:30120
+NTV HD _ TH Nghệ An,udp://@225.1.2.183:30120
+HTTV HD _ TH Hà Tĩnh,udp://@225.1.1.75:30120
+QRTV _ TH Quảng Trị,udp://@225.1.1.117:30120
+DaNangTV1 HD _ TH TP. Đà Nẵng,udp://@225.1.1.147:30120
+DaNangTV2 HD _ TH TP. Đà Nẵng,udp://@225.1.1.146:30120
+QRT HD _ TH Quảng Nam,udp://@225.1.2.50:30120
+PTQ _ TH Quảng Ngãi,udp://@225.1.2.174:30120
+BTV _ TH Bình Định,udp://@225.1.1.145:30120
+PTP _ TH Phú Yên,udp://@225.1.2.58:30120
+KTV HD _ TH Khánh Hòa,udp://@225.1.1.133:30120
+BTV HD _ TH Bình Thuận,udp://@225.1.1.124:30120
+KRT _ TH Kon Tum,udp://@225.1.1.36:30120
+THGL _ TH Gia Lai,udp://@225.1.2.176:30120
+LTV HD _ TH Lâm Đồng,udp://@225.1.2.177:30120
+BTV1 HD _ TH Bình Dương,udp://@225.1.1.150:30120
+BTV2 HD _ TH Bình Dương,udp://@225.1.1.149:30120
+BTV3 HD _ TH Bình Dương,udp://@225.1.2.22:30120
+BTV4 HD _ TH Bình Dương,udp://@225.1.1.30:30120
+BTV9 An Viên HD,udp://@225.1.2.189:30120
+ĐNRTV1 HD _ TH Đồng Nai,udp://@225.1.1.152:30120
+ĐNRTV2 HD _ TH Đồng Nai,udp://@225.1.1.151:30120
+TTV11 _ TH Tây Ninh,udp://@225.1.1.130:30120
+BRT HD _ TH Bà Rịa Vũng Tàu,udp://@225.1.2.175:30120
+THTG HD _ TH Tiền Giang,udp://@225.1.2.170:30120
+THVL1 HD _ TH Vĩnh Long,udp://@225.1.1.155:30120
+THVL2 HD _ TH Vĩnh Long,udp://@225.1.1.154:30120
+THVL3 HD _ TH Vĩnh Long,udp://@225.1.1.235:30120
+THVL4 HD _ TH Vĩnh Long,udp://@225.1.2.25:30120
+THTV HD _ TH Trà Vinh,udp://@225.1.2.172:30120
+HGTV _ TH Hậu Giang,udp://@225.1.1.157:30120
+KG1 _ TH Kiên Giang,udp://@225.1.2.182:30120
+BLTV HD _ TH Bạc Liêu,udp://@225.1.1.61:30120
+CTV HD _ TH Cà Mau,udp://@225.1.1.104:30120
+THTPCT HD _ TH TP. Cần Thơ,udp://@225.1.1.132:30120
+THĐT1 _ TH Đồng Tháp,udp://@225.1.1.163:30120
+THĐT2 Miền Tây,udp://@225.1.1.210:30120
+
+Địa phương (SD)
+YTV _ TH Yên Bái,udp://@225.1.1.39:30120
+LTV _ TH Lai Châu,udp://@225.1.2.36:30120
+STV _ TH Sơn La,udp://@225.1.1.98:30120
+HGTV _ TH Hà Giang,udp://@225.1.1.62:30120
+QTV3 _ TH Quảng Ninh,udp://@225.1.2.180:30120
+THHN _ TH Hà Nam,udp://@225.1.1.63:30120
+THD _ TH Hải Dương,udp://@225.1.1.158:30120
+HY _ TH Hưng Yên,udp://@225.1.1.118:30120
+NTV _ TH Nam Định,udp://@225.1.1.120:30120
+TBTV _ TH Thái Bình,udp://@225.1.1.99:30120
+VP _ TH Vĩnh Phúc,udp://@225.1.2.99:30120
+TTV _ TH Thanh Hóa,udp://@225.1.2.184:30120
+QBTV _ TH Quảng Bình,udp://@225.1.2.164:30120
+TRT _ TH Thừa Thiên Huế,udp://@225.1.1.161:30120
+NTV _ TH Ninh Thuận,udp://@225.1.2.178:30120
+DRT _ TH Đắk Lắk,udp://@225.1.1.64:30120
+BPTV1 _ TH Bình Phước,udp://@225.1.2.23:30120
+BPTV2 _ TH Bình Phước,udp://@225.1.2.38:30120
+BTV6 _ TH Bình Dương,udp://@225.1.1.223:30120
+LA34 _ TH Long An,udp://@225.1.1.162:30120
+ATV _ TH An Giang,udp://@225.1.2.173:30120
+THBT _ TH Bến Tre,udp://@225.1.1.156:30120
+STV1 _ TH Sóc Trăng,udp://@225.1.1.159:30120
+
+Quốc Tế (HD)
+Animal Planet,udp://@225.1.1.231:30120
+Animax,udp://@225.1.1.135:30120
+Asian Food Network,udp://@225.1.1.198:30120
+AXN HD,udp://@225.1.2.225:30120
+Baby TV HD,udp://@225.1.2.146:30120
+BBC CbeeBies,udp://@225.1.1.134:30120
+BBC Earth,udp://@225.1.2.24:30120
+BOOMERANG,udp://@225.1.1.138:30120
+BLUE ANT ENTERTAINMENT,udp://@225.1.1.203:30120
+BLUE ANT EXTREME,udp://@225.1.1.204:30120
+CARTOON NETWORK HD,udp://@225.1.2.231:30120
+Cinema World HD,udp://@225.1.1.142:30120
+Cinemax HD,udp://@225.1.2.86:30120
+Da Vinci,udp://@225.1.1.197:30120
+Discovery Asia HD,udp://@225.1.2.223:30120
+Discovery Channel HD,udp://@225.1.1.238:30120
+Dreamworks,udp://@225.1.1.136:30120
+DW,udp://@225.1.1.46:30120
+Fashion TV HD,udp://@225.1.2.227:30120
+HBO HD,udp://@225.1.4.90:30120
+KIX,udp://@225.1.2.144:30120
+NATIONAL GEOGRAPHIC HD,udp://@225.1.2.235:30120
+NAT GEO WILD,udp://@225.1.1.211:30120
+NHK WORLD,udp://@225.1.1.47:30120
+Outdoor Channel,udp://@225.1.2.215:30120
+TLC,udp://@225.1.1.236:30120
+Warner TV HD,udp://@225.1.1.139:30120
+
+Quốc Tế (SD)
+Arirang,udp://@225.1.1.201:30120
+ABC AUSTRALIA,udp://@225.1.2.21:30120
+BBC Lifestyle,udp://@225.1.2.52:30120
+BBC WORLD NEWS,udp://@225.1.2.74:30120
+CNA,udp://@225.1.1.202:30120
+CNBC,udp://@225.1.1.227:30120
+CNN,udp://@225.1.1.242:30120
+FRANCE 24,udp://@225.1.2.211:30120
+KBS WORLD,udp://@225.1.1.196:30120
+TV5MONDE ASIE,udp://@225.1.1.200:30120
+
+CLEAN FEED
+FEED 1 SPORTS,udp://@225.1.1.30:30120
+FEED 2 SPORTS,udp://@225.1.1.28:30120
+FEED 3 SPORTS,udp://@225.1.1.27:30120
+FEED 4 SPORTS,udp://@225.1.1.10:30120
+FEED 5 SPORTS,udp://@225.1.1.31:30120
+
+K+
+K+ Cine HD (DRM),udp://@225.1.1.5:30120
+K+ Life HD (DRM),udp://@225.1.1.6:30120
+K+ Kids HD (DRM),udp://@225.1.1.76:30120
+K+ Sport 1 HD (DRM),udp://@225.1.1.73:30120
+K+ Sport 2 HD (DRM),udp://@225.1.1.77:30120
